@@ -12,7 +12,7 @@ This application allows you to encrypt and decrypt text using the Caesar Cipher 
 3. Click the `Encrypt` or `Decrypt` button to see the result.
 
 ## Deployment
-This application is hosted on GitHub Pages. You can access it [here](your-github-pages-link).
+This application is hosted on GitHub Pages. You can access it [here](https://serethewind.github.io/cipher/).
 
 ## Tests
 Tests for the cipher function are included in the `test/ciphertest.js` file and can be run using Jest.
